@@ -10,6 +10,6 @@ It’s exciting when students in an introductory course become interested in sta
 
 Click to access slides.
 
-<a href="https://github.com/matackett/wsds2020-create/blob/master/wsds2020-create.pdf"><img src='title-slide.png' width="600"/></a>
+<a href="https://github.com/matackett/wsds2020-create/blob/main/wsds-2020-create.pdf"><img src='title-slide.png' width="600"/></a>
 
 ## Resources
